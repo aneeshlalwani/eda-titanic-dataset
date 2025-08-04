@@ -92,7 +92,6 @@ This project performs **exploratory data analysis (EDA)** and **visualization** 
 - ✅ Family size vs. survival (Bar Chart)
 - ✅ Average fare comparison by survival (Bar Chart)
 - ✅ Gender distribution (Pie Chart)
-- 📌 More charts to be added...
 
 ---
 
